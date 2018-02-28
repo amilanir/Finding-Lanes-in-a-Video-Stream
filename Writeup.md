@@ -5,9 +5,8 @@ The goals/steps of this project are the following:
 
 - Make a pipeline that finds lane lines on the road.
 
-# Reflections
 
-## Description
+# Description
 In this pipeline which identifies lanes lines uses the following functions to actively identify lanes lines inan image and plot lane liine in the image. 
 
 - **grayscale**: Returns a gray scaled version of the input image using **cv2.cvtColor** method.
@@ -22,7 +21,7 @@ When we detect a line with a positive slope and a value greater than the positiv
 At the end we do a linear regression line fitting for both the left and right lane lines.
     
 
-## Potential shortcomings/suggestions
+# Potential shortcomings/suggestions
 
 - The lines shake a lot on the videos, a better way to average them should be possible.
 - The line size should be improved.
