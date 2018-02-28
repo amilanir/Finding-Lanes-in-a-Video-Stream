@@ -10,7 +10,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project lane lines are detected in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images. 
 
-Final python script for finding lanes ina video steram is located at [Finding Lanes in a Video Stream.py](https://github.com/amilanir/Finding-Lanes-in-a-Video-Stream/blob/master/Finding%20Lanes%20in%20a%20Video%20Stream.py. To view the code and description of each module follow the [Finding Lanes in a Video Stream.html](https://github.com/amilanir/Finding-Lanes-in-a-Video-Stream/blob/master/Finding%20Lanes%20in%20a%20Video%20Stream.html) page.
+Final python script for finding lanes ina video steram is located at [Finding Lanes in a Video Stream.py](https://github.com/amilanir/Finding-Lanes-in-a-Video-Stream/blob/master/Finding%20Lanes%20in%20a%20Video%20Stream.py). To view the code and description of each module follow the [Finding Lanes in a Video Stream.html](https://github.com/amilanir/Finding-Lanes-in-a-Video-Stream/blob/master/Finding%20Lanes%20in%20a%20Video%20Stream.html) page.
 
 Installation  
 ---
