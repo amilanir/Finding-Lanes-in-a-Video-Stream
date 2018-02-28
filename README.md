@@ -49,7 +49,7 @@ This repository is a compilation of project files and lecture notes for [Udacity
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="solidYellowCurve2" />
+<img src="test_images_output/solidYellowLeft.jpg" width="480" alt="solidYellowCurve2" />
 
 Overview
 ---
